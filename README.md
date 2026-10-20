@@ -6,14 +6,14 @@ Most of my professional work is in C#/.NET. Outside of work I build small, focus
 
 ### Selected side projects
 
-- **[front-map](https://github.com/Molostov-A/front-map)** — a browser-based map workspace built on MapLibre GL: layer management, distance and area measurement, polygon editing, and unit tests for the geometry modules.
-  `JavaScript` `MapLibre GL` `SVG`
+- **front-map** — a browser-based map workspace built on MapLibre GL: layer management, distance and area measurement, polygon editing, and unit tests for the geometry modules.
+  `JavaScript` `MapLibre GL` `SVG` · [Live demo](https://molostov-a.github.io/front-map/)
 
-- **[steam-revenue-estimator](https://github.com/Molostov-A/steam-revenue-estimator)** — an online calculator that estimates Steam game revenue under different pricing and tax models, with a published demo on GitHub Pages.
-  `JavaScript` `GitHub Pages` `Data modelling`
+- **steam-revenue-estimator** — an online calculator that estimates Steam game revenue under different pricing and tax models.
+  `JavaScript` `Data modelling` · [Live demo](https://molostov-a.github.io/steam-revenue-estimator/)
 
-- **[dance-sequence-builder](https://github.com/Molostov-A/dance-sequence-builder)** — a visual editor for dance sequences: movement library, combo tree, automatic sequence generator, and JSON import/export.
-  `JavaScript` `SVG` `State management`
+- **dance-sequence-builder** — a visual editor for dance sequences: movement library, combo tree, automatic sequence generator, and JSON import/export.
+  `JavaScript` `SVG` `State management` · [Live demo](https://molostov-a.github.io/dance-sequence-builder/)
 
 - **[ReignsEngine](https://github.com/Molostov-A/ReignsEngine)** — an engine and editor for Reigns-style narrative card games: story/branch/choice/effect model, ASP.NET Core API, WinForms editor and a Vue-based frontend.
   `C#` `.NET` `ASP.NET Core` `WinForms` `Vue`
