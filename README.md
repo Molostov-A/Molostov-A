@@ -6,9 +6,6 @@ Most of my professional work is in C#/.NET. Outside of work I build small, focus
 
 ### Selected side projects
 
-- **front-map** — a browser-based map workspace built on MapLibre GL: layer management, distance and area measurement, polygon editing, and unit tests for the geometry modules.
-  `JavaScript` `MapLibre GL` `SVG` · [Live demo](https://molostov-a.github.io/front-map/)
-
 - **steam-revenue-estimator** — an online calculator that estimates Steam game revenue under different pricing and tax models.
   `JavaScript` `Data modelling` · [Live demo](https://molostov-a.github.io/steam-revenue-estimator/)
 
